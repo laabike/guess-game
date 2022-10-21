@@ -1,0 +1,7 @@
+1. What's the game about?
+Basically, you are to guess the number the system guesses and input it. 
+If you guess correctly, you will be assigned 10 points and then proceed to the next level. 
+Otherwise, you will be assigned 0 point. You will be allowed to try 2 more times before it's game over.
+There are 10 levels in this game and the level of difficulty increases as you increase in level.
+
+2.
